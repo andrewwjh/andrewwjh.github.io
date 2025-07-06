@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Wu Jianhao / Site Title"
+title                    : "Wu Jianhao / 吴健豪"
 title_separator          : "-"
 name                     : &name "Wu Jianhao"
 description              : &description "personal description"

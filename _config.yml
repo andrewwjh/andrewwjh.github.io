@@ -13,7 +13,7 @@ title                    : "Wu Jianhao / 吴健豪"
 title_separator          : "-"
 name                     : &name "Wu Jianhao"
 description              : &description "personal description"
-url                      : https://andrewwjh.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : "https://andrewwjh.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "andrewwjh/andrewwjh.github.io/"
 
@@ -24,10 +24,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Wu Jianhao"
-  pronouns         : he/his# example: "she/her"  
+  pronouns         : he/his # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "PCNL"
   uri              : # URL
   email            : "none@example.org" 
 
